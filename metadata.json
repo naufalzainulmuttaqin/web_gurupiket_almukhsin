@@ -1,0 +1,6 @@
+{
+  "name": "Modul Guru Piket MTs Al Mukhsin - AI RAG",
+  "description": "Sistem Informasi Enterprise Pendidikan Berbantuan AI Berbasis RAG - Modul Guru Piket MTs Al Mukhsin dengan Grid KBM, Inval, dan Integrasi WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
